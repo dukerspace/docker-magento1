@@ -2,5 +2,6 @@
 ### Set up docker
 - copy .env-dist > .env
 - set up environtment
-- docker-compose up -d
 - extract magento2 to folder app
+- docker-compose up -d
+
